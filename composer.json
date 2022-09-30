@@ -1,0 +1,18 @@
+{
+    "name": "carlos/ddd-doctrine-semantic-entities",
+    "require": {
+        "doctrine/orm": "^2.13",
+        "symfony/uid": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Carlos\\DddDoctrineSemanticEntities\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Buenosvinos",
+            "email": "carlos.buenosvinos@gmail.com"
+        }
+    ]
+}
